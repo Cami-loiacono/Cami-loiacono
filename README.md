@@ -17,6 +17,9 @@
 </div>
 
 ###
+<br>
+<hr />
+<br>
 
 <div align="center">
   <h3>🛠 Tech stack</h3>
