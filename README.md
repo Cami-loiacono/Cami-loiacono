@@ -1,7 +1,6 @@
 <div align="center">
- <div class="tenor-gif-embed" data-postid="13261013018252940771" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/miku-typing-on-computer-nevermind-whatever-gif-13261013018252940771">Miku Typing GIF</a>from <a href="https://tenor.com/search/miku-gifs">Miku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/tH48E-bCEx8AAAAC/miku-typing.gif" alt="Miku Typing" width="100%" />
 </div>
-
 ###
 
 <div align="center">
