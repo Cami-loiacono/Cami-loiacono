@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="[https://media.tenor.com/tH48E-bCEx8AAAAC/miku-typing.gif](https://tenor.com/es/view/miku-typing-on-computer-nevermind-whatever-gif-13261013018252940771)" alt="Miku Typing" width="100%" />
+  <img src="https://raw.githubusercontent.com/Zorby-A/Zorby-A/main/miku-typing.gif" height="150" alt="Miku Typing" />
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/camila-belen-lo-iacono/" target="_blank">
@@ -9,7 +8,6 @@
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cami-loiacono.Cami-loiacono&"  />
