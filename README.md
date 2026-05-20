@@ -15,14 +15,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cami-loiacono.Cami-loiacono&"  />
 </div>
-
 ###
-<br>
 <hr />
 <br>
 
 <div align="center">
-  <h3>🛠 Tech stack</h3>
+<h1 align="left" style="color: black;"><b>Tech stack</b></h1>
 </div>
 
 ###
