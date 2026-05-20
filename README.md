@@ -16,11 +16,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cami-loiacono.Cami-loiacono&"  />
 </div>
 ###
-<hr />
+
 <br>
 
 <div align="center">
-<h1 align="left" style="color: black;"><b>Tech stack</b></h1>
+<h1 style="color: black;"><b>Tech stack</b></h1>
 </div>
 
 ###
