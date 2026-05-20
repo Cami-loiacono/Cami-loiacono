@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/tH48E-bCEx8AAAAC/miku-typing.gif" alt="Miku Typing" width="100%" />
+  <img src="[https://media.tenor.com/tH48E-bCEx8AAAAC/miku-typing.gif](https://tenor.com/es/view/miku-typing-on-computer-nevermind-whatever-gif-13261013018252940771)" alt="Miku Typing" width="100%" />
 </div>
 ###
 
