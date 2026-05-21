@@ -9,8 +9,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/Cami-loiacono/Cami-loiacono/stats-output/stats.svg" height="150" alt="stats graph" />
-      </td>
-      <td align="center" valign="middle" style="padding: 10px;">
-        <img src="
+      <div align="center">
+  <img src="https://raw.githubusercontent.com/Cami-loiacono/Cami-loiacono/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Cami-loiacono/Cami-loiacono/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
