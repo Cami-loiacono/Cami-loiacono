@@ -1,6 +1,5 @@
 
-<img src="https://media.tenor.com/pZ20W5EorN0AAAAC/miku-typing.gif" width="300" alt="Miku Typing">
-<div align="center">
+![Miku Typing](https://media.tenor.com/pZ20W5EorN0AAAAC/miku-typing.gif)<div align="center">
   <h1><b>Tech Stack</b></h1>
 </div>
 
